@@ -1,0 +1,4 @@
+下载图片VGG19特征文件,并解压到当前目录
+https://filebox.ece.vt.edu/~jiasenlu/codeRelease/vqaRelease/train_only/data_train_val.zip
+或网盘
+http://pan.baidu.com/s/1c2EMu6s
